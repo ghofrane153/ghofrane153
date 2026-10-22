@@ -2,13 +2,13 @@
 
 ### Engineering Student | AI Agents | Machine Learning | Software Engineering
 
-🎓 Applied Computer Science engineering student at ENISo, currently on an academic exchange at ESIGELEC, France.
+ Applied Computer Science engineering student at ENISo, currently on an academic exchange at ESIGELEC, France.
 
-🤖 Passionate about Artificial Intelligence, intelligent agents, LLM applications, cybersecurity, and full-stack development.
+ Passionate about Artificial Intelligence, intelligent agents, LLM applications, cybersecurity, and full-stack development.
 
-🚀 I enjoy building practical projects that combine AI, software engineering, and real-world problem solving.
+ I enjoy building practical projects that combine AI, software engineering, and real-world problem solving.
 
-🎯 **Looking for a 6-month PFE internship in AI and Intelligent Agents starting February 2027.**
+ **Looking for a 6-month PFE internship in AI and Intelligent Agents starting February 2027.**
 
 📍 Rouen, France
 
