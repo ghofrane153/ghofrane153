@@ -1,4 +1,4 @@
-# Hi, I'm Ghofrane Kerkeni 👋
+# Hi, I'm Ghofrane Kerkeni 
 
 ### Engineering Student | AI Agents | Machine Learning | Software Engineering
 
